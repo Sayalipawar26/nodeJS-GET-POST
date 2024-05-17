@@ -1,0 +1,35 @@
+[
+    {
+        "name":"iphone 15",
+        "price":700000,
+        "feature":true,
+        "company":"apple"
+
+    },
+    {
+        "name":"redmi 15",
+        "price":700000,
+        "feature":true,
+        "company":"apple"
+
+    },
+
+    {
+        "name":"oppo 15",
+        "price":700000,
+        "company":"apple"
+
+    },
+    {
+        "name":"realme 15",
+        "price":700000,
+        "company":"apple"
+
+    },
+    {
+        "name":"jio",
+        "price":700000,
+        "company":"apple"
+
+    }
+]
